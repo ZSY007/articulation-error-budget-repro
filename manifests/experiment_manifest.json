@@ -1,0 +1,58 @@
+{
+  "release_date": "2026-09-19",
+  "anonymous_review_release": true,
+  "main_cv": {
+    "folds": 5,
+    "fold_seed": 12345,
+    "object_bootstrap_draws": 1000
+  },
+  "rgb": {
+    "looo_objects": 12,
+    "common_support_objects": 6,
+    "common_support_rows": 1728,
+    "object_bootstrap_draws": 2000,
+    "probability_threshold_for_balanced_accuracy": 0.5
+  },
+  "mechanism": {
+    "date": "2026-09-18",
+    "protocol_doc": "docs/\u5b9e\u9a8c\u65b9\u68483_\u5224\u636e\u4e0e\u53c2\u8003\u66f4\u65b0\u673a\u5236\u9a8c\u8bc1_2026-09-18.md",
+    "experiment_version": "v1",
+    "objects": [
+      "101579",
+      "103425",
+      "103776",
+      "10685",
+      "11622",
+      "12252",
+      "46145",
+      "7304"
+    ],
+    "h_values": [
+      20,
+      40
+    ],
+    "rho_values": [
+      0.0,
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.25,
+      0.3,
+      0.35,
+      0.4,
+      0.45,
+      0.5
+    ],
+    "conditions": [
+      "gt",
+      "axis",
+      "pivot"
+    ],
+    "reps": 16,
+    "step_deg": 0.5,
+    "n_trials": 8832
+  },
+  "partnet_assets_included": false,
+  "partnet_reason": "Registration and dataset terms apply; release provides IDs and URDF hashes."
+}

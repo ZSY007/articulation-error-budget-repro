@@ -1,0 +1,146 @@
+{
+  "10068": {
+    "gate_rate": 0.13333333333333333,
+    "passed": false
+  },
+  "10489": {
+    "gate_rate": 0.13333333333333333,
+    "passed": false
+  },
+  "10620": {
+    "gate_rate": 0.13333333333333333,
+    "passed": false
+  },
+  "10685": {
+    "gate_rate": 0.9333333333333333,
+    "passed": true
+  },
+  "11178": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "11231": {
+    "gate_rate": 0.13333333333333333,
+    "passed": false
+  },
+  "11622": {
+    "gate_rate": 0.4666666666666667,
+    "passed": false
+  },
+  "12036": {
+    "gate_rate": 0.0,
+    "passed": false
+  },
+  "12252": {
+    "gate_rate": 0.9333333333333333,
+    "passed": true
+  },
+  "40147": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "41003": {
+    "gate_rate": 0.8,
+    "passed": true
+  },
+  "44781": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "45087": {
+    "gate_rate": 1.0,
+    "passed": true
+  },
+  "45162": {
+    "gate_rate": 0.8,
+    "passed": true
+  },
+  "45189": {
+    "gate_rate": 0.8666666666666667,
+    "passed": true
+  },
+  "45244": {
+    "gate_rate": 0.5333333333333333,
+    "passed": false
+  },
+  "46019": {
+    "gate_rate": 0.2,
+    "passed": false
+  },
+  "46033": {
+    "gate_rate": 0.8666666666666667,
+    "passed": true
+  },
+  "46037": {
+    "gate_rate": 1.0,
+    "passed": true
+  },
+  "46084": {
+    "gate_rate": 0.8666666666666667,
+    "passed": true
+  },
+  "46108": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "46120": {
+    "gate_rate": 0.5333333333333333,
+    "passed": false
+  },
+  "46145": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "46856": {
+    "gate_rate": 1.0,
+    "passed": true
+  },
+  "46859": {
+    "gate_rate": 0.8,
+    "passed": true
+  },
+  "47529": {
+    "gate_rate": 0.5333333333333333,
+    "passed": false
+  },
+  "47570": {
+    "gate_rate": 0.8,
+    "passed": true
+  },
+  "47944": {
+    "gate_rate": 0.2,
+    "passed": false
+  },
+  "48063": {
+    "gate_rate": 1.0,
+    "passed": true
+  },
+  "48379": {
+    "gate_rate": 0.9333333333333333,
+    "passed": true
+  },
+  "48452": {
+    "gate_rate": 0.8,
+    "passed": true
+  },
+  "49042": {
+    "gate_rate": 0.6,
+    "passed": false
+  },
+  "49133": {
+    "gate_rate": 0.4666666666666667,
+    "passed": false
+  },
+  "7167": {
+    "gate_rate": 1.0,
+    "passed": true
+  },
+  "7263": {
+    "gate_rate": 0.6666666666666666,
+    "passed": false
+  },
+  "7310": {
+    "gate_rate": 0.4,
+    "passed": false
+  }
+}

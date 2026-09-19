@@ -1,0 +1,22 @@
+# Main env for prime optimisation / rendering / PyBullet+SAPIEN.
+# Mirrors the local Windows `cv` conda env (see README.md "Environment").
+# On JARVIS, `nvidia-smi` first to confirm the CUDA driver, then pick the matching
+# torch/cu wheel index below if the pinned cu128 build doesn't match.
+name: ee900-prime
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - imageio
+  - pyyaml
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0
+      - torchvision
+      - sapien==3.0.3

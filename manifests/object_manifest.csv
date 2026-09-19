@@ -1,0 +1,89 @@
+object_id,roles,kind,active_joint,urdf_relative_path,urdf_sha256,urdf_bytes,asset_in_release
+7119,P1 metric archive; P2 source; gripper initial screen,revolute,joint_0,7119/mobility.urdf,803b83d8b6daa0d221411e0c3c71d6ff374eb3469b8c8eaa46806801adce4883,20553,no
+7128,P1 metric archive; P2 source,revolute,joint_0,7128/mobility.urdf,f4aae28352bab3abe4d0cbfbbade2aa82ac8d5dc616a86bf8d14726f4621a212,12380,no
+7167,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay; gripper expanded screen,revolute,joint_0,7167/mobility.urdf,99a142371cbcfe78e9ba6442fb1be560e84973e94868786ceae88101cd424d31,5403,no
+7236,P1 metric archive; P2 RGB target,revolute,joint_0,7236/mobility.urdf,c89aa7a3fa13c241ac376317fc0123715e553bb97314f7b9021d5f8f80845da7,12638,no
+7263,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,7263/mobility.urdf,f62495313c3495f37df6ef95bd15e3f90e30fc34cf99d34e74c24b6855067f83,15177,no
+7265,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay,revolute,joint_0,7265/mobility.urdf,1bfcb7ca75cc191e4d1c4ab79801bfb40199c4bca51a7ef8c3dcc6ea0bcec4a3,24732,no
+7292,P1 metric archive; P2 RGB target,revolute,joint_0,7292/mobility.urdf,f77ea82903621792ff94da19dfa7a5537e6641273c8f7f895727f63955ee60cc,143132,no
+7304,P1 metric archive; P2 source; P3 mechanism,revolute,joint_1,7304/mobility.urdf,48d7252378ef9e123e6bec6f0bc5d5a761ee764f26b7b8f5f7ac995dec9f5ec6,1606,no
+7310,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,7310/mobility.urdf,662ee506eb1e25f125841246d93e76b07f2b2cdbf62bddf3eae63cdfefebcd37,7286,no
+10068,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_1,10068/mobility.urdf,62ac52e846b36fb16b82bb810f295d297cb19fcdb2d843dbab4571a9450fed3d,6036,no
+10143,P1 metric archive; P2 source; gripper initial screen,revolute,joint_0,10143/mobility.urdf,7dd27daa5faa0b5d38c40971832d32b25b334df78387fd8484c350a05c64082a,9432,no
+10144,P1 metric archive; P2 RGB target; gripper initial screen,revolute,joint_0,10144/mobility.urdf,5eaef9ae04b7fed7dccda7b6f2d8809e1eaa8b76764420e502fa6e875afdf4fc,50302,no
+10347,P1 metric archive; P2 source; gripper initial screen,revolute,joint_0,10347/mobility.urdf,c06274fa5f3420a666c25bedac42ed5b04103f58b84e34d0c694fec6ad1342f9,5162,no
+10373,P1 metric archive; P2 source,revolute,joint_0,10373/mobility.urdf,a0b6ff232139c47d918d89edde32954b6f86792b559a1f98201a8503cda5410a,3026,no
+10489,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_1,10489/mobility.urdf,11e1d2f8f77960e008c96b50ca89bc509b9c0ba5e0fc5d948171bcb3f1e2aee2,12010,no
+10620,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_1,10620/mobility.urdf,7deba98de815ce981cf32541020cbdc9bdb4d4f0bef46e7f15271ab382f6def6,14514,no
+10685,P1 metric archive; P2 source; P3 mechanism; gripper expanded screen,revolute,joint_1,10685/mobility.urdf,b7bd5dcc7a33ad8ea34d071ecf784d0d4b21a50a0921e0bb1699078112ea7578,5708,no
+10849,P1 metric archive; P2 RGB target; gripper initial screen,revolute,joint_0,10849/mobility.urdf,6a057e23fb7e9a6a9b120d6774bf70546a24628be286e127802f051bdfeb3246,2275,no
+10905,P1 metric archive; P2 RGB target,revolute,joint_0,10905/mobility.urdf,223e60f153afc57fffa79720034c744f654435abf64f265ba64948932b184834,5176,no
+11178,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay; gripper expanded screen,revolute,joint_0,11178/mobility.urdf,656fc6abdcf051322b3773daa2edade9a811dfb3e09734510af8c85cbff01569,3680,no
+11231,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_1,11231/mobility.urdf,a4b7a512f0eabe02f648a29bb2acd12f5b4e7226c25b70dab14001c8383e6355,6080,no
+11622,P1 metric archive; P2 source; P3 mechanism; gripper expanded screen,revolute,joint_0,11622/mobility.urdf,278d0812161345eb5cd207e62105004a12400c4351b9ec355016e4d4dc6bcf77,7596,no
+12036,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,12036/mobility.urdf,c23a888da1fae6616292b2cc82351852f8c7eb06ca828770286d38db32d0b750,4464,no
+12252,P1 metric archive; P2 source; P3 mechanism; gripper expanded screen,revolute,joint_0,12252/mobility.urdf,83d9a25c000add9ceb3a01551d923a853e34b8326d0634d9b3306fbac2db0121,5555,no
+35059,P1 metric archive; P2 RGB target,revolute,joint_0,35059/mobility.urdf,6ea2a990a2501c4a677bfd868e4c62e5f08a87d16606ba23fe460564568aeb54,8575,no
+38516,P1 metric archive; P2 source,revolute,joint_0,38516/mobility.urdf,a8c7963468c4ab86a69558d3cc3258b19107a88bef1b8f2019630d3a6a5ffd40,10817,no
+40147,P1 metric archive; P2 RGB target; gripper expanded screen,revolute,joint_0,40147/mobility.urdf,489933e3cf31cf05fe4c2f67e13f128d2f43c530de002d9fb2623370706a010e,13823,no
+40453,P1 metric archive,prismatic,joint_0,40453/mobility.urdf,981e502ec24fafc1be48993560fb7bf337b7ad21c6e0fbd725e46bbcea0151cc,19304,no
+41003,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,41003/mobility.urdf,40f4c0c9f279640b01e572dd1f094d4f630c7de2b49b754247dfd40f10dc69a7,12721,no
+41004,P1 metric archive; P2 source; gripper initial screen,revolute,joint_0,41004/mobility.urdf,8950383520605dfc4cf930d520776a467719e43e3bbb19b78d1cb197cbc9c47b,15673,no
+44781,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,44781/mobility.urdf,b47efec06f98432aca494ec3d4f76a0d8d37ceb5fd40ab94e8361f33c4846a4b,20708,no
+44817,P1 metric archive,prismatic,joint_0,44817/mobility.urdf,767c6b4f597c87990a18f49421649efa2e3c08369e3b254cfe802e10a208609c,28125,no
+44853,P1 metric archive,prismatic,joint_0,44853/mobility.urdf,575339d52c0d85774d064a0e8258a27ec5bcf3b8f522cbfbc3976a306075649e,30936,no
+45087,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay; gripper expanded screen,revolute,joint_1,45087/mobility.urdf,ee3cc98a7f0e77f242cd46f2a337cb61ebec168c20c5d0dd851b4585e3112936,8027,no
+45091,gripper initial screen,,joint_1,45091/mobility.urdf,44dc5d750f739d371bd50d5cabd0fe39cd2714c28f585721c5c4c9e6abca3a74,8978,no
+45162,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,45162/mobility.urdf,2720a7a187a2b56477d80d9b5f8c62d3ab6210c2aab8fd0739fd25156db4adcb,12679,no
+45189,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,45189/mobility.urdf,430d6d62e94e2bad515a919276f1aa9437293021d8ca82ecde06cc2979909c51,12976,no
+45244,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,45244/mobility.urdf,e9760e5a2f93791787a33b699032882143ad2d5595acc51b290c4498603dfa6e,10701,no
+45261,P1 metric archive,prismatic,joint_0,45261/mobility.urdf,fa8c3c58d724b369ade5f260d3d5c79953aaafda78b7b9562f69d2b68baac50f,21814,no
+45677,P1 metric archive,prismatic,joint_0,45677/mobility.urdf,f1895f0ac7430e98e56976efced18bff6d92f0ba372aef2adb1db87829268bdd,33056,no
+45841,P1 metric archive,prismatic,joint_1,45841/mobility.urdf,a5c17469adb8fbc779b14db6b8cf32903c4c89ee0e65a38780dcdac0d3322f7e,14501,no
+46019,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46019/mobility.urdf,1a67eaded59aae7a368c1948d26347d317a70ac1b957ca6caff2ee35a6e26207,10113,no
+46033,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay; gripper expanded screen,revolute,joint_0,46033/mobility.urdf,d682dc5d0028368b5b1a1752922ff5ec19de1d48c48263ea1cf342d36d85b9cd,5935,no
+46037,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46037/mobility.urdf,051257459fd3a752064054503cc6485eb9b8d818b83ffc1add8dd6f1c5b78f91,16048,no
+46084,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46084/mobility.urdf,80e0a4f83d59a37b66dc9103e0c08b78da4dba9ab702b46a868c459fac94ce5f,21735,no
+46108,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46108/mobility.urdf,fb0ea7fe343a21622603f6b4feaac5bf3e8db55b21fa2794e570a42ba021b352,13601,no
+46120,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46120/mobility.urdf,c14262fce349c0516f9f3df511d9462b6eaecddf519860da4f9411ac4c929e02,19459,no
+46123,P1 metric archive,prismatic,joint_0,46123/mobility.urdf,fa9cdb88807613e8ebcf50be3fe7a41da99186c53bc270642e189cc2872575d7,25791,no
+46130,P1 metric archive,prismatic,joint_0,46130/mobility.urdf,5c85436042a92ceeb5ddbd44da04868dab1487ad6946a24dab7fb342e4c966b6,19772,no
+46145,P1 metric archive; P2 source; P3 mechanism; gripper expanded screen,revolute,joint_0,46145/mobility.urdf,df27f4997fd2921e3980e108a268ba06751d528ca8ecf52610ad6cc63f8d4bd6,39735,no
+46466,P1 metric archive,prismatic,joint_0,46466/mobility.urdf,ddf5e0458716601c0235f655abb6d54a5e330b493b261b9a892c25e9fde0ad93,20581,no
+46856,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46856/mobility.urdf,107ae6dba43f5a9b4ba07a2ce2e1cc5a1899f5c3067aa83e8a8dae61c074a3ae,23794,no
+46859,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,46859/mobility.urdf,5d1fa44a956a9dfbe722e331069618db188cf696d2578fbd67b931d40e3844bf,15919,no
+46889,P1 metric archive; P2 RGB target; gripper initial screen,revolute,joint_0,46889/mobility.urdf,0be003a0518b325ea57475154b7f3641795b28a0cc8cc97e6c796801e0d342d0,4863,no
+47315,P1 metric archive; P2 RGB target; gripper initial screen,revolute,joint_0,47315/mobility.urdf,bc1a8a52408614c3008e6dd1b23c8976b4e7968bc4fbae40d530a18e23490012,23084,no
+47529,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,47529/mobility.urdf,30f703271c72aef3d62aed40a8d8f38e726f2f26f93b8f1cbc90d249459f87fe,18132,no
+47570,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,47570/mobility.urdf,6d8256db062b8c024c92b890e5ecf75a7bedb95e8c7cb0da0ba2728c099b9b81,17863,no
+47578,P1 metric archive,prismatic,joint_0,47578/mobility.urdf,8bc0c97f331686110ce55dec5fd02801f1333445d7a343ac6011ee952076de66,28101,no
+47944,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,47944/mobility.urdf,21055e3dd46493c249c5ea8471529e1c1e785f01f1d91cf84a00eb698ac56ddb,18732,no
+48063,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,48063/mobility.urdf,c0e676f326b6e3e24d557ca1d543af5cd5858a589253c14e71cd212a8f039ed7,25339,no
+48258,P1 metric archive,prismatic,joint_0,48258/mobility.urdf,11e96ef51d325c9a9ea11402e9bd314ea2cf9d4c18793e340be060a922d773ec,20013,no
+48271,P1 metric archive; P2 source; gripper initial screen,revolute,joint_0,48271/mobility.urdf,b0140c3c1170021bc0d5fb6725305b0698e4a51a0f56722e3f2c8f361a52d912,10466,no
+48379,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,48379/mobility.urdf,86ab7ae691b80421f15b29c9e9306d5c0040a3987f60f4150a38b7f92da56dfe,13506,no
+48452,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,48452/mobility.urdf,c9314e8a7385ee8294118d4e9dc2585e72c3543e6b2011af100c3f469bd71bb3,5632,no
+48878,P1 metric archive,prismatic,joint_0,48878/mobility.urdf,ea8292b343b06c2f235cd4fb8659afde226329b1aeefa12337f92ef895c309ab,14829,no
+49042,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,49042/mobility.urdf,c48bbb3eb2cc9191f827238089677cb63d7065d9a495b3963953046591aa0ff5,11719,no
+49133,P1 metric archive; P2 source; gripper expanded screen,revolute,joint_0,49133/mobility.urdf,019313207f61288127ec953de4dc2103ee44b5109c04efd02281ca9589f6e4c3,12635,no
+100282,P1 metric archive; P2 source,revolute,joint_0,100282/mobility.urdf,efbdb15daee623d83eaa2a10b18c0a700e8f591323d3a9347555ca37c52113ac,14543,no
+101579,P3 mechanism,,joint_0,101579/mobility.urdf,9b94eb7d7bc06ce0281d9acc90f63e0096d8402fc8f1b395f3daa7b8a9a6932c,22855,no
+101584,P1 metric archive; P2 source,revolute,joint_0,101584/mobility.urdf,0e7feec9b84bc2c5e475554b656c94e3b3d3ad648b2df243ff18bf5dede0ebe5,21504,no
+101593,P1 metric archive; P2 RGB target,revolute,joint_0,101593/mobility.urdf,30aa63f12fff125685afcc0e55f90fbad499b77f8ccd26de38e9a1df2375fb77,5033,no
+101603,P1 metric archive; P2 source,revolute,joint_0,101603/mobility.urdf,8dca542a76b22a0f776c49a4352bbeeb766f9ad2348ace64b6a769203410860c,8023,no
+101611,P1 metric archive; P2 RGB target,revolute,joint_0,101611/mobility.urdf,f91c911d08864f84724ebd8260c6f32e22ee37229f1f39afeb67d2a8a714eddb,10803,no
+101619,P1 metric archive; P2 source,revolute,joint_0,101619/mobility.urdf,7f16815a0e14210a8b0b790a3ce586bf5507b2bd944227519d91c54031d876f5,14360,no
+101773,P1 metric archive; P2 source,revolute,joint_0,101773/mobility.urdf,ea3ef337073b4396d7739f405e0324956fe9035fd53310b7768fa0ea6b258cff,29490,no
+102278,P1 metric archive; P2 source,revolute,joint_0,102278/mobility.urdf,98f287ac55b27127cc45b89320c67b57930e6bde42489de7d9564283de32e642,51798,no
+102301,P1 metric archive; P2 RGB target,revolute,joint_0,102301/mobility.urdf,433a6bb45648c89d2bacbcd62db3aaa17fc7458c64e6bc53a9f772e3b47b62cd,17508,no
+102316,P1 metric archive; P2 source,revolute,joint_0,102316/mobility.urdf,9732632ebbb3ff8d105825358c05da9da7b12099e36f50dc144aed83c90e9d7b,12056,no
+102380,P4 delay-magnitude; P4 joint H-delay,,joint_0,102380/mobility.urdf,cd40a243031a34b6a8b3a512873a786f8872afce52dbd47a9b107fde102bf952,13476,no
+102387,P1 metric archive; P2 source,revolute,joint_0,102387/mobility.urdf,3c99f8eea85152ca41dbbf9ea909dc2789e01ef0f2e474c5f9a26eb188daaf3c,5095,no
+102423,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay,revolute,joint_0,102423/mobility.urdf,667882a9d38f73c44e3aba03b3f86c1233527ed9338d0a3f3765e085c7caa781,127169,no
+103351,P1 metric archive; P2 source,revolute,joint_0,103351/mobility.urdf,2cd02e84715a1501f4aa1863b3caf4b7bf7ad5066980a943517d847d97c5791b,48255,no
+103369,P1 metric archive; P2 source,revolute,joint_0,103369/mobility.urdf,15983ebbf31fce1359a3a3705f7b18a906cac9d1453cc106b937be3c5466badb,24061,no
+103425,P1 metric archive; P2 source; P3 mechanism,revolute,joint_0,103425/mobility.urdf,e45e4e3e49391071f2ab87905239ab9d7b69935f9bc9a8adfe31bd92c3bbaf3d,19254,no
+103452,P1 metric archive; P2 source,revolute,joint_0,103452/mobility.urdf,9e89482e353aa0149c28d6afbf795146ddef39c8bdd4cce96c92ec880e05b688,42678,no
+103508,P1 metric archive; P2 source; P4 delay-magnitude; P4 joint H-delay,revolute,joint_0,103508/mobility.urdf,8417adf417c41f51ddd816bc50d74508a34f6033ec0558ebe5eb627412019add,22316,no
+103776,P1 metric archive; P2 source; P3 mechanism,revolute,joint_0,103776/mobility.urdf,f6d507948d6c6cafa47eb77234dd34401ffc2c9772aecc734a35e0b213589db6,36250,no
+103778,P1 metric archive; P2 source,revolute,joint_0,103778/mobility.urdf,97608106aebf3a2c2e4e0e3a809eb8804d02916887a23ad47e57c8e247ee4dca,17355,no

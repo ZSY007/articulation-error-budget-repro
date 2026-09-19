@@ -1,0 +1,12 @@
+{
+  "source_files": [
+    "out/p1_tangent_all.csv",
+    "out/perseed_errors_*_p0_*_se3.csv"
+  ],
+  "target_files": [
+    "rgbsweep_library_eval.json",
+    "rgbsweep2_library_eval.json",
+    "e5x_rgbsweep_trials.csv",
+    "e5x_rgbsweep2_trials.csv"
+  ]
+}

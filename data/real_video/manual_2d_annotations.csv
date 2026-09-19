@@ -1,0 +1,13 @@
+frame_idx,landmark,x_px_orig,y_px_orig
+0,top_far,200.0,39.0
+0,bottom_far,215.5,383.0
+0,static_ref,548.0,13.5
+20,top_far,202.5,41.0
+20,bottom_far,214.0,381.5
+20,static_ref,549.5,13.0
+55,top_far,422.0,88.5
+55,bottom_far,427.5,351.5
+55,static_ref,548.0,14.5
+60,top_far,479.5,90.5
+60,bottom_far,487.5,349.0
+60,static_ref,549.0,13.0
